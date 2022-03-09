@@ -1,4 +1,4 @@
-# PTRI_schematics
+# Схемы для экзамена по ПТРИ
 # 1)Электронно-лучевой осциллограф
 ![image](https://user-images.githubusercontent.com/100391214/157524733-d0e1dd25-f0c1-4df7-9f84-edde3545bb21.png)
 ## Непрерывная развёртка
