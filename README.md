@@ -33,3 +33,26 @@
 ![image](https://user-images.githubusercontent.com/100391214/157526150-c37b43e3-6c38-4622-b192-3add6791878e.png)
 ## Параллельный АЦП
 ![image](https://user-images.githubusercontent.com/100391214/157526310-ebf1a751-3efa-4206-a3bc-a117eb08f605.png)
+# 4)Анализаторы спектра
+## Классификация анализаторов спектра
+![image](https://user-images.githubusercontent.com/100391214/157608064-ac602816-e634-4b2e-9767-0b0c9b3ea1be.png)
+## Последовательный анализатор спектра
+![image](https://user-images.githubusercontent.com/100391214/157608172-2fed2f89-cd33-493d-aab9-1728bf0d1a70.png)
+
+![image](https://user-images.githubusercontent.com/100391214/157608208-b5e9b796-923c-4d23-8619-f1fba9cc3fdd.png)
+
+![image](https://user-images.githubusercontent.com/100391214/157608234-81fc1336-46a0-4eca-a259-3b710d30bbf0.png)
+
+## Параллельный анализатор спектра
+![image](https://user-images.githubusercontent.com/100391214/157608349-063da23f-35ae-4aff-94c7-cf8f9aef6321.png)
+
+## Измерение нелинейных искажений
+## Классификация
+![image](https://user-images.githubusercontent.com/100391214/157608469-94e2a345-33dd-4c09-93ba-de21fd0f11f2.png)
+
+## Структурная схема
+![image](https://user-images.githubusercontent.com/100391214/157608527-3381d2c4-3a62-44b7-a026-355b090a0d5f.png)
+
+
+
+
