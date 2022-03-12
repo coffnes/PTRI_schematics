@@ -17,9 +17,9 @@
 
 # 2)Аналоговый осциллограф с цифровым измерительным блоком
 ## Метод сравнения с эталоном
-## Измерение амплитуды
+## Измерение напряжения
 ![image](https://user-images.githubusercontent.com/100391214/157525322-57250385-c660-4c2d-a0f0-ffb8dda9a259.png)
-## Измерение частоты
+## Измерение временных интервалов
 ![image](https://user-images.githubusercontent.com/100391214/157525354-37dd49d3-6240-4f9a-93e3-973334238240.png)
 # 3)Цифровые осциллографы
 ## Цифровой осциллограф с матричным индикатором
@@ -46,6 +46,12 @@
 ## Параллельный анализатор спектра
 ![image](https://user-images.githubusercontent.com/100391214/157608349-063da23f-35ae-4aff-94c7-cf8f9aef6321.png)
 
+## Вычислительный анализатор спектра
+![image](https://user-images.githubusercontent.com/100391214/158015421-50aa4f01-3d21-4455-b147-83ffe31a157c.png)
+
+## Цифровой анализатор спектра
+![image](https://user-images.githubusercontent.com/100391214/158015485-b7f3ad19-44f7-4203-8c73-d34b340ae3c5.png)
+
 ## Измерение нелинейных искажений
 ## Классификация
 ![image](https://user-images.githubusercontent.com/100391214/157608469-94e2a345-33dd-4c09-93ba-de21fd0f11f2.png)
@@ -53,6 +59,75 @@
 ## Структурная схема
 ![image](https://user-images.githubusercontent.com/100391214/157608527-3381d2c4-3a62-44b7-a026-355b090a0d5f.png)
 
+# 5)Модулометры и девиометры
+## Структурная схема
+![image](https://user-images.githubusercontent.com/100391214/158015589-4ddc060e-81be-42ad-a2a5-8d6b403b5fb6.png)
 
+## Демодулятор АМ с ООС
+![image](https://user-images.githubusercontent.com/100391214/158015628-b27058ac-c74d-470b-82d8-0d92cdf25cc5.png)
 
+## Счётный ЧМ детектор
+![image](https://user-images.githubusercontent.com/100391214/158015631-7af8c403-5fff-4d5c-a61d-c61d502ab46d.png)
 
+# 6)Цифровые вольтметры
+## Структурная схема
+![image](https://user-images.githubusercontent.com/100391214/158015655-21384385-f6c3-4d39-bfe5-b43df52a05c9.png)
+
+![image](https://user-images.githubusercontent.com/100391214/158015659-d6c2851a-3b0f-48fc-b70d-818740c30d61.png)
+
+## Время-импульсного преобразования
+![image](https://user-images.githubusercontent.com/100391214/158015711-66c8638b-d902-4dad-9ea4-f90d6a3f6ce7.png)
+
+![image](https://user-images.githubusercontent.com/100391214/158015681-689ab122-88d8-479c-bf8c-d0fa6f5cf537.png)
+
+## Двойного интегрирования
+![image](https://user-images.githubusercontent.com/100391214/158015794-42700596-8472-46da-9509-3fced6b01aee.png)
+
+![image](https://user-images.githubusercontent.com/100391214/158015801-358d4649-276e-437a-a210-a1a4776e27df.png)
+
+## Последовательного счёта
+![image](https://user-images.githubusercontent.com/100391214/158015846-383c8d2f-ff2b-4122-acd1-4a5d41d98e41.png)
+
+![image](https://user-images.githubusercontent.com/100391214/158015852-798d0b8c-0ce4-4d20-97d4-3f8f824de002.png)
+
+## Последовательного приблежения
+![image](https://user-images.githubusercontent.com/100391214/158015882-d24fb7da-bafb-4f11-a964-2d584a2c4c83.png)
+
+![image](https://user-images.githubusercontent.com/100391214/158015891-11cb1cf3-16d0-43cc-85e6-a150758c9c37.png)
+
+# 7)Измерение частоты и фазового сдвига
+## Преобразование фазового сдвига в напряжение
+![image](https://user-images.githubusercontent.com/100391214/158016041-59355956-9831-4ae8-ace6-55de8d8c6604.png)
+
+## Двухтактная схема фаза-время
+![image](https://user-images.githubusercontent.com/100391214/158016072-6201c650-4666-4ce7-b5b1-1fc9d9eb5dd5.png)
+
+## Фазовый сдвиг во временной интервал
+![image](https://user-images.githubusercontent.com/100391214/158016145-dcc59ee1-1f10-4d7c-9e3c-963df8f92ad4.png)
+
+## Интегрирующий цифровой фазометр
+![image](https://user-images.githubusercontent.com/100391214/158016157-ee166ed6-6f10-462f-9f7b-47f927abe2c8.png)
+
+## ЭСЧ в режиме измерения частоты
+![image](https://user-images.githubusercontent.com/100391214/158016207-fabb1a39-5c9b-4db9-98c5-5d70ec99ca0a.png)
+
+![image](https://user-images.githubusercontent.com/100391214/158016211-381fd020-7285-40c0-84df-9d31573195ad.png)
+
+## ЭСЧ в режиме измерения периода
+![image](https://user-images.githubusercontent.com/100391214/158016224-de4c01a1-bf08-4134-98c7-e26240b1a685.png)
+
+![image](https://user-images.githubusercontent.com/100391214/158016226-a16ab053-5596-4ccf-ab07-c8a37b169260.png)
+
+## ЭСЧ комбинированый метод
+![image](https://user-images.githubusercontent.com/100391214/158016228-57d32fd8-8658-4d76-9674-9ca638a6aecb.png)
+
+# Измерение АЧХ
+## Панорамный метод
+![image](https://user-images.githubusercontent.com/100391214/158016273-407c090a-309f-40da-88a7-dc816f7c5a6c.png)
+
+![image](https://user-images.githubusercontent.com/100391214/158016274-23f1fa99-d06d-4bfc-b1d7-9adc3fe8adaf.png)
+
+## Микропроцессорный измеритель АЧХ
+![image](https://user-images.githubusercontent.com/100391214/158016282-e0af0aaa-b900-4402-af91-d9534e9028d7.png)
+
+![image](https://user-images.githubusercontent.com/100391214/158016284-386be020-09e7-4104-b4b4-df5d0eaa4170.png)
