@@ -121,7 +121,7 @@
 ## ЭСЧ комбинированый метод
 ![image](https://user-images.githubusercontent.com/100391214/158016228-57d32fd8-8658-4d76-9674-9ca638a6aecb.png)
 
-# Измерение АЧХ
+# 8)Измерение АЧХ
 ## Панорамный метод
 ![image](https://user-images.githubusercontent.com/100391214/158016273-407c090a-309f-40da-88a7-dc816f7c5a6c.png)
 
