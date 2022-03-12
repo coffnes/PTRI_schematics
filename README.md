@@ -128,4 +128,7 @@
 ![image](https://user-images.githubusercontent.com/100391214/158016274-23f1fa99-d06d-4bfc-b1d7-9adc3fe8adaf.png)
 
 ## Микропроцессорный измеритель АЧХ
-![image](https://user-images.githubusercontent.com/100391214/158016284-386be020-09e7-4104-b4b4-df5d0eaa4170.png)
+![image](https://user-images.githubusercontent.com/100391214/158022582-dc6a2a57-2ba7-4db1-ba99-b8697e5f4d2b.png)
+
+![image](https://user-images.githubusercontent.com/100391214/158022590-2778de87-c81c-40a2-86d9-5fb493d411e6.png)
+
