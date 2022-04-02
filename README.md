@@ -165,6 +165,12 @@
 ## Методы измерения АЧХ
 ![image](https://user-images.githubusercontent.com/100391214/159187393-835ce9fa-8ab8-483c-9692-b5287ae091b4.png)
 
+## Измерение АЧХ по точкам
+![image](https://user-images.githubusercontent.com/100391214/161394104-cade5c3f-66a7-4b8c-bd61-3859f6a51930.png)
+
+## Измерение АЧХ по точкам с помощью двух вольтметров
+![image](https://user-images.githubusercontent.com/100391214/161394124-9e7fd045-e3ef-4dea-a11d-99753c52d014.png)
+
 ## Панорамный метод
 ![image](https://user-images.githubusercontent.com/100391214/158016273-407c090a-309f-40da-88a7-dc816f7c5a6c.png)
 
